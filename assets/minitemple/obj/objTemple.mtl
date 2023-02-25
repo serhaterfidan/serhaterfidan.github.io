@@ -1,0 +1,16 @@
+newmtl temple:dockRender:cosas:domeRender:domeRender:Sacre:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -mm_0_0.537849_PAREZ2.jpg
+bump  -bm 1 germany010b.jpg
+Ni 1.00
+newmtl temple:dockRender:towerRender:buildingWaterRender:Building:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -mm_0_0.644_shin01XL.jpg
+bump  -bm 1 shin01XLb.jpg
+Ni 1.00
